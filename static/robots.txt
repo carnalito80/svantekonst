@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://svantekonst.se/sitemap-index.xml
